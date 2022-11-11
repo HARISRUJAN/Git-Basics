@@ -1,1 +1,1 @@
-print("Hello Ignitz Hyderabad")
+print("Hello Ignitz")
